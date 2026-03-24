@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">🌙 SleepyVLone OS</h1>
+<p align="center">software dev</p>
 
-<!--
-**SleepyVLone/SleepyVLone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💫 about me
+- building small projects  
+- learning software development  
+- focusing on clean + usable systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧸 projects
+- 🌙 Healthcare System  
+- 🌙 Backrooms Survival  
+- 🌙 Personal tools  
+
+---
+
+## ⭐ tech
+
+### languages
+`C++` `JavaScript` `HTML5` `CSS` `PHP`
+
+### stack
+`Node.js` `SQLite`
+
+### tools
+`VS Code` `Git` `GitHub`
+
+### engines
+`Unreal Engine 5 (Blueprints + C++)` `PaperMC`
+
+---
+
+## 🌌 currently
+working on improving my projects and making things look better
