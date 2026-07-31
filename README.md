@@ -21,7 +21,7 @@
 ## ⭐ tech
 
 ### languages
-`C++` `JavaScript` `HTML5` `CSS` `PHP`
+`C++` `JavaScript` `TypeScript` `HTML5` `CSS` `PHP`
 
 ### stack
 `Node.js` `SQLite`
