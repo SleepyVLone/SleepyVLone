@@ -5,7 +5,7 @@
 ---
 
 ## About me
-I am currently a second year software development student working on improving my knowledge and skills in C++ and C#.
+I'm a second year software development student working on improving my knowledge and skills in C++ and C#.
 
 ---
 
