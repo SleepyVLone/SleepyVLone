@@ -4,35 +4,35 @@
 
 ---
 
-## 💫 about me
+## About me
 - building small projects  
 - learning software development  
 - focusing on clean + usable systems  
 
 ---
 
-## 🧸 projects
+## Projects
 - 🌙 Healthcare System  
 - 🌙 Backrooms Survival Game
 - 🌙 Personal tools  
 
 ---
 
-## ⭐ tech
+## Tech
 
-### languages
-`C++` `JavaScript` `TypeScript` `HTML5` `CSS` `PHP`
+### Languages
+`C++` `C#` `JavaScript` `TypeScript` `HTML5` `CSS` `PHP`
 
-### stack
+### Stack
 `Node.js` `SQLite`
 
-### tools
+### Tools
 `VS Code` `Git` `GitHub`
 
-### engines
+### Engines
 `Unreal Engine 5 (Blueprints + C++)` `PaperMC`
 
 ---
 
-## 🌌 currently
-working on improving my projects and making things look better
+## Currently
+Working on a budgeting app and my first web game
