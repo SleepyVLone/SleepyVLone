@@ -5,9 +5,7 @@
 ---
 
 ## About me
-- building small projects  
-- learning software development  
-- focusing on clean + usable systems  
+I am currently a second year software development student working on improving my knowledge and skills in C++ and C#.
 
 ---
 
